@@ -1,0 +1,15 @@
+.navbar {
+  height: 40px;
+  width: 100%;
+  background-color: #ce0000;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.navbar-link {
+  margin: 0 10px;
+}
+
+.navbar-heading {
+  font-size: large;
+}
